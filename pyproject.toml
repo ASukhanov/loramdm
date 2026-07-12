@@ -1,0 +1,16 @@
+[project]
+name = "loramdm"
+version = "0.0.3"
+description = "Configure and listen Lora modems"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pyserial",
+    ]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+[project.urls]
+"Homepage" = "https://github.com/ASukhanov/loramdm"
